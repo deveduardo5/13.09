@@ -35,7 +35,7 @@ Um formulário responsivo para cadastrar veículos à venda, permitindo que os u
 
    2. Navegue até o diretório do projeto
 ```bash
-    cd venda-seu-carro
+    https://venda-seu-carro.vercel.app/
 ``` 
 3. Abra o arquivo index.html em seu navegador.
 
@@ -52,7 +52,7 @@ Para usar o formulário de venda de carros, siga os passos abaixo:
 2. **Navegue até o Diretório**:
    - Acesse o diretório do projeto:
      ```bash
-     cd venda-seu-carro
+     https://venda-seu-carro.vercel.app/
      ```
 
 3. **Abra o Arquivo HTML**:
